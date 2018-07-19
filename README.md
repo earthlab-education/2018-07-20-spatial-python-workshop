@@ -1,1 +1,4 @@
-# 2018-07-20-spatial-python-workshop
+## Earth Lab - Learn to Use Spatial Data in Open Source Python 
+
+20 July 2018
+
